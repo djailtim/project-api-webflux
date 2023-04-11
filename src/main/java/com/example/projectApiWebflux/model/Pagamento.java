@@ -1,4 +1,4 @@
-package com.example.teste.model;
+package com.example.projectApiWebflux.model;
 
 import lombok.Builder;
 import lombok.Data;

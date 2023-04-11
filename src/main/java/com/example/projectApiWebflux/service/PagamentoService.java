@@ -1,8 +1,8 @@
-package com.example.teste.service;
+package com.example.projectApiWebflux.service;
 
-import com.example.teste.controller.PagamentoController;
-import com.example.teste.model.Pagamento;
-import com.example.teste.repository.InMemoryPagamentoDB;
+import com.example.projectApiWebflux.controller.PagamentoController;
+import com.example.projectApiWebflux.model.Pagamento;
+import com.example.projectApiWebflux.repository.InMemoryPagamentoDB;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

@@ -1,6 +1,6 @@
-package com.example.teste.repository;
+package com.example.projectApiWebflux.repository;
 
-import com.example.teste.model.Pagamento;
+import com.example.projectApiWebflux.model.Pagamento;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;

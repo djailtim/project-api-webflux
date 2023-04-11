@@ -1,4 +1,4 @@
-package com.example.teste;
+package com.example.projectApiWebflux;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

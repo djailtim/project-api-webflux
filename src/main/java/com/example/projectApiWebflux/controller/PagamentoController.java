@@ -1,7 +1,7 @@
-package com.example.teste.controller;
+package com.example.projectApiWebflux.controller;
 
-import com.example.teste.model.Pagamento;
-import com.example.teste.service.PagamentoService;
+import com.example.projectApiWebflux.model.Pagamento;
+import com.example.projectApiWebflux.service.PagamentoService;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
